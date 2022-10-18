@@ -6,4 +6,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 
 creating a new branch feature1 in master.
-
+add merge
