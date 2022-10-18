@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 
 creating a new branch feature1 in master.
 add merge
+add from zongyang simon
